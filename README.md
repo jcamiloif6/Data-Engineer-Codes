@@ -17,7 +17,7 @@ Este repositorio contiene notebooks y archivos CSV con el objetivo de organizar 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/jcamiloif6/Data-Engineer-Codes.git
    ```
 2. Abre los notebooks en Jupyter o Google Colab.
 3. Explora y ejecuta los scripts en Python y SQL según sea necesario.
